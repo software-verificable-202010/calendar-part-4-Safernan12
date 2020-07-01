@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Chago\\Documents\\Visual Studio 2017\\Projects\\Calendar\\CalendarTests\\CalendarTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Chago\\Documents\\Visual Studio 2017\\Projects\\Calendar\\CalendarTests\\CalendarTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Chago\\Documents\\Visual Studio 2017\\Projects\\Calendar\\CalendarTests\\CalendarTests.csproj",
+        "projectName": "CalendarTests",
+        "projectPath": "C:\\Users\\Chago\\Documents\\Visual Studio 2017\\Projects\\Calendar\\CalendarTests\\CalendarTests.csproj",
+        "packagesPath": "C:\\Users\\Chago\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Chago\\Documents\\Visual Studio 2017\\Projects\\Calendar\\CalendarTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Chago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Chago\\Documents\\Visual Studio 2017\\Projects\\Calendar\\Calendar\\Calendar.csproj": {
+                "projectPath": "C:\\Users\\Chago\\Documents\\Visual Studio 2017\\Projects\\Calendar\\Calendar\\Calendar.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Chago\\Documents\\Visual Studio 2017\\Projects\\Calendar\\Calendar\\Calendar.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Chago\\Documents\\Visual Studio 2017\\Projects\\Calendar\\Calendar\\Calendar.csproj",
+        "projectName": "Calendar",
+        "projectPath": "C:\\Users\\Chago\\Documents\\Visual Studio 2017\\Projects\\Calendar\\Calendar\\Calendar.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}

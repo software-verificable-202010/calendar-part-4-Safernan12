@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calendar", "Calendar\Calendar.csproj", "{B4750FCC-1638-4BC7-BA92-4A403B0DF749}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalendarTests", "CalendarTests\CalendarTests.csproj", "{B5EA01F6-414C-43EC-9FCF-5FDD2B752183}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4750FCC-1638-4BC7-BA92-4A403B0DF749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4750FCC-1638-4BC7-BA92-4A403B0DF749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4750FCC-1638-4BC7-BA92-4A403B0DF749}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{B4750FCC-1638-4BC7-BA92-4A403B0DF749}.Debug|ARM.Build.0 = Debug|Any CPU
+		{B4750FCC-1638-4BC7-BA92-4A403B0DF749}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B4750FCC-1638-4BC7-BA92-4A403B0DF749}.Debug|x64.Build.0 = Debug|Any CPU
+		{B4750FCC-1638-4BC7-BA92-4A403B0DF749}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B4750FCC-1638-4BC7-BA92-4A403B0DF749}.Debug|x86.Build.0 = Debug|Any CPU
+		{B4750FCC-1638-4BC7-BA92-4A403B0DF749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4750FCC-1638-4BC7-BA92-4A403B0DF749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4750FCC-1638-4BC7-BA92-4A403B0DF749}.Release|ARM.ActiveCfg = Release|Any CPU
+		{B4750FCC-1638-4BC7-BA92-4A403B0DF749}.Release|ARM.Build.0 = Release|Any CPU
+		{B4750FCC-1638-4BC7-BA92-4A403B0DF749}.Release|x64.ActiveCfg = Release|Any CPU
+		{B4750FCC-1638-4BC7-BA92-4A403B0DF749}.Release|x64.Build.0 = Release|Any CPU
+		{B4750FCC-1638-4BC7-BA92-4A403B0DF749}.Release|x86.ActiveCfg = Release|Any CPU
+		{B4750FCC-1638-4BC7-BA92-4A403B0DF749}.Release|x86.Build.0 = Release|Any CPU
+		{B5EA01F6-414C-43EC-9FCF-5FDD2B752183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5EA01F6-414C-43EC-9FCF-5FDD2B752183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5EA01F6-414C-43EC-9FCF-5FDD2B752183}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{B5EA01F6-414C-43EC-9FCF-5FDD2B752183}.Debug|ARM.Build.0 = Debug|Any CPU
+		{B5EA01F6-414C-43EC-9FCF-5FDD2B752183}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B5EA01F6-414C-43EC-9FCF-5FDD2B752183}.Debug|x64.Build.0 = Debug|Any CPU
+		{B5EA01F6-414C-43EC-9FCF-5FDD2B752183}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B5EA01F6-414C-43EC-9FCF-5FDD2B752183}.Debug|x86.Build.0 = Debug|Any CPU
+		{B5EA01F6-414C-43EC-9FCF-5FDD2B752183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5EA01F6-414C-43EC-9FCF-5FDD2B752183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5EA01F6-414C-43EC-9FCF-5FDD2B752183}.Release|ARM.ActiveCfg = Release|Any CPU
+		{B5EA01F6-414C-43EC-9FCF-5FDD2B752183}.Release|ARM.Build.0 = Release|Any CPU
+		{B5EA01F6-414C-43EC-9FCF-5FDD2B752183}.Release|x64.ActiveCfg = Release|Any CPU
+		{B5EA01F6-414C-43EC-9FCF-5FDD2B752183}.Release|x64.Build.0 = Release|Any CPU
+		{B5EA01F6-414C-43EC-9FCF-5FDD2B752183}.Release|x86.ActiveCfg = Release|Any CPU
+		{B5EA01F6-414C-43EC-9FCF-5FDD2B752183}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAACECE2-04E8-4D80-A1F9-D1C44B3E5E7E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Chago\Documents\Visual Studio 2017\Projects\Calendar\Calendar\bin\Debug\Calendar.exe.config
+C:\Users\Chago\Documents\Visual Studio 2017\Projects\Calendar\Calendar\bin\Debug\Calendar.exe
+C:\Users\Chago\Documents\Visual Studio 2017\Projects\Calendar\Calendar\bin\Debug\Calendar.pdb
+C:\Users\Chago\Documents\Visual Studio 2017\Projects\Calendar\Calendar\obj\Debug\Calendar.csprojAssemblyReference.cache
+C:\Users\Chago\Documents\Visual Studio 2017\Projects\Calendar\Calendar\obj\Debug\MainWindow.g.cs
+C:\Users\Chago\Documents\Visual Studio 2017\Projects\Calendar\Calendar\obj\Debug\App.g.cs
+C:\Users\Chago\Documents\Visual Studio 2017\Projects\Calendar\Calendar\obj\Debug\Calendar_MarkupCompile.cache
+C:\Users\Chago\Documents\Visual Studio 2017\Projects\Calendar\Calendar\obj\Debug\Calendar_MarkupCompile.lref
+C:\Users\Chago\Documents\Visual Studio 2017\Projects\Calendar\Calendar\obj\Debug\MainWindow.baml
+C:\Users\Chago\Documents\Visual Studio 2017\Projects\Calendar\Calendar\obj\Debug\Calendar.g.resources
+C:\Users\Chago\Documents\Visual Studio 2017\Projects\Calendar\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+C:\Users\Chago\Documents\Visual Studio 2017\Projects\Calendar\Calendar\obj\Debug\Calendar.csproj.GenerateResource.cache
+C:\Users\Chago\Documents\Visual Studio 2017\Projects\Calendar\Calendar\obj\Debug\Calendar.csproj.CoreCompileInputs.cache
+C:\Users\Chago\Documents\Visual Studio 2017\Projects\Calendar\Calendar\obj\Debug\Calendar.exe
+C:\Users\Chago\Documents\Visual Studio 2017\Projects\Calendar\Calendar\obj\Debug\Calendar.pdb
