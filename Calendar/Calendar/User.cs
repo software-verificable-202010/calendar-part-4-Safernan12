@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Calendar
 {
-    class User
+    public class User
     {
         private readonly string username;
         private readonly List<Schedule> scheduleList = new List<Schedule>();
 
-        public User(String name)
+        public User(string name)
         {
             username = name;
         }
